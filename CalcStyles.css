@@ -1,0 +1,68 @@
+button {
+
+padding: 10px;
+font-size:1.5em;
+
+
+}
+
+h2 {
+display: inline;
+
+
+
+}
+
+#eq{
+background-color: blue;
+color: white;
+
+
+
+}
+
+#clear {
+background-color: red;
+color:white
+
+
+}
+
+.numbers button {
+background-color: orange;
+color: white;
+
+
+
+}
+
+
+body {
+
+
+
+
+
+}
+
+
+#textAreas {
+border: black 5px solid;
+
+
+
+
+}
+
+#firstNum{
+    border: black 5px solid;
+padding: 25px;
+}
+#secondNum{
+    border: black 5px solid;
+    padding: 25px;
+}
+#secondNum{
+    border: black 5px solid;
+    padding: 25px;
+}
